@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: java brain course api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rajmi
+Implementation-Vendor-Id: io.javabrain.springbootquickstart
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/course-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
